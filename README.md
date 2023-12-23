@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Centerville1
-- 🌱 I’m currently an undergraduate student studying computer science
+- 👋 Hi, I’m Matt Jones, aka @Centerville1
+- 🌱 I’m currently an undergraduate student studying computer science at Gordon College
 
 
 <!---
