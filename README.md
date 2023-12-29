@@ -3,8 +3,7 @@
 
 ### Experience
 
-
-- [My Linked-In Page](https://www.linkedin.com/in/matt-jones-a7b389292/)
+- [See My Linked-In Profile](https://www.linkedin.com/in/matt-jones-a7b389292/)
 
 
 <!---
